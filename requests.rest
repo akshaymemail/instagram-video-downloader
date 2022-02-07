@@ -2,5 +2,5 @@ POST http://localhost:5000/api/instagram/get-link
 Content-Type: application/json
 
 {
-    "ur": "https://www.instagram.com/p/B_Q-_xgBQ_/"
+    "url":"https://www.instagram.com/reel/CZqd30cB2gX/?utm_medium=copy_link"
 }
