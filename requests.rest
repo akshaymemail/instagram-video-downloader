@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/instagram/get-link
+Content-Type: application/json
+
+{
+    "ur": "https://www.instagram.com/p/B_Q-_xgBQ_/"
+}
